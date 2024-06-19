@@ -1,2 +1,0 @@
-br.com.ambientelivre.internal.DefaultHelloWorld
-br.com.ambientelivre.script.HelloWorldScriptService
