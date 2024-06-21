@@ -1,5 +1,6 @@
 # Deploy xWiki Extension by Deployment using Docker Compose
 
+
 ## Install Extensions
 this smple install a simple extension in jar 
 
@@ -21,4 +22,4 @@ xwiki - directory for build image
 
 xwiki/extensions - extension copy to webapps/WEB-INF/lib
 
-
+import_xwiki_ui  - Extensions Componentes  UI ( install for management UI not deployment this moment)
