@@ -6,7 +6,7 @@ this smple install a simple extension in jar
 
  - Hello World Extension [source](https://github.com/ambientelivre/samples-xwiki/tree/main/helloworld)
  
-## Deploy en Run
+## Deploy and Run
 
 ```bash
 git clone git@github.com:ambientelivre/samples-xwiki.git
@@ -16,7 +16,7 @@ cd docker-compose/deploy-extension
 docker-compose up --build 
 ```
  
-## Extructure  
+## Structure  
 
 xwiki - directory for build image
 
